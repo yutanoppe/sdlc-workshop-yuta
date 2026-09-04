@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_maintenance",
+  "scopeId": "377285109ab342b19be47b4104edab6e",
+  "name": "Maintenance_Yuta",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
